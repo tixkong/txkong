@@ -13,5 +13,11 @@ this is a test website
   </tr>
 </table>
 
-this is a game: .[catch the cat].('source/catch-cat-master/index.html')
+
+| A | B | C |
+| :--- | :----: | ----: |
+| aaaa | bbbbbb | ccccc |
+| a    | b      | c     |
+
+this is a game: .[catch the cat].(source/catch-cat-master/index.html)
 
