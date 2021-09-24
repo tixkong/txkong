@@ -1,3 +1,9 @@
+<style>
+table {
+margin: auto;
+}
+</style>
+
 ## Welcome to my page
 
 this is a test website
